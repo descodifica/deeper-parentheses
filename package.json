@@ -1,11 +1,11 @@
 {
   "name": "@desco/deeper-parentheses",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Map a string by returning the parentheses (levels) deeper first",
-  "author": "Rafael A. R. Dias <contato@diasrafael.com.br>",
+  "author": "Rafael A. R. Dias <eu@diasrafael.com.br>",
   "repository": {
     "type": "git",
-    "url": "git+https://eudiasrafael@bitbucket.org/eudiasrafael/desco-deeper-parentheses.git"
+    "url": "git+https://github.com/descodifica/deeper-parentheses"
   },
   "private": false,
   "license": "ISC",
