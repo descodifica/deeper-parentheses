@@ -1,6 +1,6 @@
 <div align="right">
-  <a href="README.US.md">
-    <img alt="Read in American English" src="https://img.shields.io/static/v1?label=&message=🇺🇸 Read in American English&color=red&style=for-the-badge" />
+  <a href="README.md">
+    <img alt="Ler em Portugês do Brasil" src="https://img.shields.io/static/v1?label=&message=🇧🇷 Ler em Português do Brasil&color=green&style=for-the-badge" />
   </a>
 </div>
 
@@ -9,60 +9,62 @@
     <td><img src="https://i.ibb.co/S0KJqcR/deeper-parentheses.png"></td>
     <td>  
       <h1>@desco/deeper-parentheses</h1>
-      Pacote NPM que permite executar um método passado, primeiro nos níveis mais profundos de uma determinada expressão, para depois os níveis mais profundos.
+      NPM package that allows you to execute a past method, first at the deepest levels of a given expression, and then at the deepest levels.
       <br /><br />
       <div align="center">
-        <img alt="Licença MIT" src="https://img.shields.io/static/v1?label=Licença&message=MIT&color=green&style=for-the-badge">
-        <img alt="Versão 1.0.6" src="https://img.shields.io/static/v1?label=Versão&message=1.0.6&color=blue&style=for-the-badge">
+        <img alt="MIT License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge">
+        <img alt="Version 1.0.6" src="https://img.shields.io/static/v1?label=Version&message=1.0.6&color=blue&style=for-the-badge">
       </div>
       <h4 align="center"> 
-        🚀 Pronto para uso! 🚀
+        🚀 Ready to use! 🚀
       </h4>
     </td>
   </tr>
 </table>
 
-> <a href="https://github.com/desco-npm" target="_blank">Veja outros projetos NPM aqui.</a>
+> <a href="https://github.com/desco-npm" target="_blank">See other NPM projects here.</a>
 
-> <a href="https://github.com/descoifica" target="_blank">Veja outros projetos aqui.</a>
+> <a href="https://github.com/descoifica" target="_blank">See other projects here.</a>
 
 ---
 
-## 📋 Tabela de conteúdos
+## 📋 Table of Contents
 
-* [🛠️ Tecnologias](#Tecnologias)
-* [⚙️ Instalação](#Instalação)
-* [📦 Importação](#Importação)
-* [📚 Como Usar](#Como-Usar)
+* [✔️ Resources](#Resources)
+* [🛠️ Technology](#Technology)
+* [⚙️ Installation](#Installation)
+* [📚 Documentation](#Documentation)
 
 ---
 
 <a name="Tecnologias"></a>
 
 
-## 🛠️ Tecnologias
+<a name="Technology"></a>
 
-As seguintes tecnologias são utilizadas:
+## 🛠️ Technology
+
+The following technologies are used:
 
 * [NodeJS](https://nodejs.org/en/);
 
 ---
 
-<a name="Instalação"></a>
+<a name="Installation"></a>
 
-## ⚙️ Instalação
+## ⚙️ Installation
 
 ```bash
 npm install --save @desco/deeper-parentheses
 ```
 
-> Note que será necessário ter o **NPM** instalado para o comando funcionar.
+> Note that it will be necessary to have **NPM** installed for the command to work.
 
 ---
 
-<a name="Importação"></a>
+<a name="Import"></a>
 
-### 📦 Importação
+### 📦 Import
 
 ### Node
 
@@ -78,9 +80,9 @@ import deeperParentheses from '@desco/deeper-parentheses'
 
 ---
 
-<a name="Como-Usar"></a>
+<a name="How-To-Use"></a>
 
-### 📚 Como Usar
+### 📚 How to use
 
 ```js
 const deeperParentheses = require('@desco/deeper-parentheses' )
